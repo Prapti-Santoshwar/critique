@@ -27,6 +27,7 @@
   <a href="https://github.com/BistaDinesh03/critique">Source code</a> ·
   <a href="https://github.com/BistaDinesh03/critique/issues">Issues</a> ·
   <a href="CONTRIBUTING.md">Contributing</a>
+  <a href="CODE_OF_CONDUCT.md">Code of Conduct</a>
 </p>
 
 <p align="center">
